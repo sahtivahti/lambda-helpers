@@ -1,0 +1,9 @@
+{
+  "name": "@sahtivahti/lambda-helpers",
+  "version": "0.0.1",
+  "description": "Utilities for AWS lambda",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Atte Tarvainen <tarvainen.atte@gmail.com>",
+  "license": "MIT"
+}
