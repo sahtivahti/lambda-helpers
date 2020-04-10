@@ -5,5 +5,11 @@
   "main": "index.js",
   "keywords": [],
   "author": "Atte Tarvainen <tarvainen.atte@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "lint": "standard"
+  },
+  "devDependencies": {
+    "standard": "^14.3.3"
+  }
 }
