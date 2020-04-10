@@ -14,7 +14,7 @@ npm i @sahtivahti/lambda-helpers
 
 ### CORS
 
-```
+```javascript
 const { cors } = require('@sahtivahti/lambda-helpers')
 
 const hello = () => ({ statusCode: 200, body: 'Hello World!' })
